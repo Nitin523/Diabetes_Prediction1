@@ -1,0 +1,49 @@
+body{
+    background-image: url("/static/diabetesPrediction/images/bg.png");
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    background-repeat: no-repeat;
+  
+    background-size: cover;
+
+  }
+p{
+    color: white;
+    font-size: 50px;
+    font-weight: bold;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+h1{
+    color: black;
+    font-size: 18px;
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.tbl{
+    border-collapse: separate;
+    border-spacing: 0 2px;
+    color: black;
+}
+
+.main{
+   
+    position: fixed;
+    top: 140px;
+    left: 305px;
+    width: 550px;
+    background-color: white;
+    border-radius: 10px;
+    align-items: center;
+    padding: 5%;
+    
+}
+input[type=submit]{
+    background-color: rgb(212, 137, 40);
+    border: 2px;
+    color: white;
+    padding: 8px 16px;
+    cursor:pointer;
+    margin-top: 15px;
+}

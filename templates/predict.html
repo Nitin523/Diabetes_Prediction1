@@ -1,0 +1,56 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title> Home </title>
+        <link rel="stylesheet" href="{% static 'css/styles2.css' %}">
+    </head>
+    <body>
+        <p align="center">Welcome to the Prediction Page</p>
+        <div class="main" align="center">
+            <h1>Enter the following details</h1>
+            <form action="result">
+                <table class="tbl">
+                    <tr>
+                        <td align="left">Pregnancies</td>
+                        <td align="right"><input type="text" name="n1" required></td>
+                    </tr>
+
+                    <tr>
+                        <td align="left">Glucose</td>
+                        <td align="right"><input type="text" name="n2" required></td>
+                    </tr>
+                    <tr>
+                        <td align="left">Blood Pressure</td>
+                        <td align="right"><input type="text" name="n3" required></td>
+                    </tr>
+                    <tr>
+                        <td align="left">Skin Thickness</td>
+                        <td align="right"><input type="text" name="n4" required></td>
+                    </tr>
+                    <tr>
+                        <td align="left">Insulin</td>
+                        <td align="right"><input type="text" name="n5" required></td>
+                    </tr>
+                    <tr>
+                        <td align="left">BMI</td>
+                        <td align="right"><input type="text" name="n6" required></td>
+                    </tr>
+                    <tr>
+                        <td align="left">Diabetes Pedigree Function</td>
+                        <td align="right"><input type="text" name="n7" required></td>
+                    </tr>
+                    <tr>
+                        <td align="left">Age</td>
+                        <td align="right"><input type="text" name="n8" required></td>
+                    </tr>
+
+
+                </table>
+                <input type="submit" name="submit">
+            </form>
+            result:{{result2}}
+        </div>
+    </body>
+</html>
