@@ -7,9 +7,9 @@ Tools and Technology
 - [ ] Jupyter Notebook
 
 
--pip install -r requirments.txt
--Python Manage.py migrate
--Python manage.py runserver (Local host:Port:8000)
+- pip install -r requirments.txt
+- Python Manage.py migrate
+- Python manage.py runserver (Local host:Port:8000)
 
 
 :+1: This Projects looks great now - it's ready ! :shipit:
