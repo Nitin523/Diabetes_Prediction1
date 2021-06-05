@@ -6,14 +6,13 @@ Tools and Technology
 - [ ] Django
 - [ ] Jupyter Notebook
 
-'''
+***
 -pip install -r requirments.txt
 -Python Manage.py migrate
 -Python manage.py runserver (Local host:Port:8000)
+***
 
-'''
-
-:+1: This PR looks great - it's ready to merge! :shipit:
+:+1: This Projects looks great now - it's ready ! :shipit:
 
 This site was Hosted using [Heroku ](https://diabetesprediction523.herokuapp.com/).
 
