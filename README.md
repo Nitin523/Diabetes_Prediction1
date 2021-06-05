@@ -2,7 +2,9 @@
 
 Tools and Technology 
 
-1. Python
-   - version 3.8.5
-     - Jupyter Notebook
-      - 
+ [x] Python
+- [ ] Django
+- [ ] Jupyter Notebook
+
+
+      
