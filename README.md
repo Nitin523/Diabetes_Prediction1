@@ -1,7 +1,7 @@
 # Diabetes_Prediction1
 ***
 
-Tools and Technology 
+### Tools and Technology 
 
 - [ ] Python
 - [ ] Django
@@ -18,6 +18,6 @@ Tools and Technology
 ***
 :+1: This Projects looks great now - it's ready ! :shipit:
 
-This site was Hosted using [Heroku ](https://diabetesprediction523.herokuapp.com/).
+This site was Hosted using Heroku [Click here to see the live demo ](https://diabetesprediction523.herokuapp.com/).
 ****
       
